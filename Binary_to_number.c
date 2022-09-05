@@ -34,5 +34,5 @@ int  convert_to_number(int size,int arr[100])
    Binary = Binary / 10; 
  }
  printf("the number is %d \n", convert_to_number(count,arr));
- 
+  exit (0);
  }
